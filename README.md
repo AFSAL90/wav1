@@ -18,11 +18,11 @@
 ## Clone This Project is
 
 ```bash
-> git clone https://github.com/xxirfanx/wav2
+> git clone https://github.com/AFSAL90/wav1
 ```
 
 ```bash
-> cd wav2
+> cd wav1
 > bash install.sh
 ```
 
