@@ -1,5 +1,5 @@
 <p align="center">
-<img src=https://i.ibb.co/6t2NNmD/dnsnew.jpg" alt="20210103-132024" border="0">
+<img src=https://i.ibb.co/ZT5d3nn/20210328-083357.jpg" alt="20210103-132024" border="0">
 </p>
 <p align="center">
 <a href="https://github.com/xxirfanx">
@@ -33,8 +33,8 @@
 
 
 ## Special Thanks To
-* [`Fxc7 UYIR`](https://github.com/Fxc7)
+* [`LUA SER😍`](https://github.com/xxirfanx)
 
 ## Sosmed
 * [`Telegram admin`](https://t.me/LAU_BRO)
-* [`WhatsApp Admin`](http://wa.me/19152665341)
+* [`WhatsApp Admin`](http://wa.me/15749993995)
