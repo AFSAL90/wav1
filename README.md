@@ -36,8 +36,8 @@
 * [`LUA SER😍`](https://github.com/xxirfanx)
 
 ## Sosmed
-* [`Telegram admin`](https://t.me/LAU_BRO)
-* [`WhatsApp Admin`](http://wa.me/15749993995)
+* [`Telegram admin`](https://t.me/BLACKTHUNDER90)
+* [`WhatsApp Admin`](http://wa.me/919645694607)
 
 # License
 
