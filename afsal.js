@@ -5410,6 +5410,13 @@ case 'husbu':
         const d = fs.readFileSync('./sticker/jget.webp');
         denz.sendMessage(from, d, sticker, {quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg","caption": "_𝐁𝐋𝐀𝐂𝐊 𝐓𝐇𝐔𝐍𝐃𝐄𝐑_", 'jpegThumbnail': fs.readFileSync('./sticker/dnsnew.webp')}}}})
         }
+        if (budy.includes("Sharu")){
+		denz.updatePresence(from, Presence.composing)
+		const loli = fs.readFileSync('./mp3/Sharu.m4a')
+        denz.sendMessage(from, loli, MessageType.audio, {quoted: mek, mimetype: 'audio/mp4', ptt:true})
+        const d = fs.readFileSync('./sticker/Sharum.webp');
+        denz.sendMessage(from, d, sticker, {quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? { remoteJid: "status@broadcast" } : {}) }, message: { "imageMessage": { "url": "https://mmg.whatsapp.net/d/f/At0x7ZdIvuicfjlf9oWS6A3AR9XPh0P-hZIVPLsI70nM.enc", "mimetype": "image/jpeg","caption": "_𝐁𝐋𝐀𝐂𝐊 𝐓𝐇𝐔𝐍𝐃𝐄𝐑_", 'jpegThumbnail': fs.readFileSync('./sticker/dnsnew.webp')}}}})
+        }
         if (budy.includes("myr")){
 		denz.updatePresence(from, Presence.composing)
 		const loli = fs.readFileSync('./mp3/mukesh.mp3')
