@@ -161,7 +161,7 @@ async function starts() {
 				} catch {
 					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 				}
-				teks = `𝐆𝐔𝐃 𝐁𝐈𝐄 @${num.split('@')[0]}👋\𝐎𝐑𝐔 𝐒𝐇𝐀𝐋𝐈𝐘𝐀𝐌 𝐎𝐙𝐇𝐔𝐕𝐀𝐘𝐈 🤣`
+				teks = `𝐆𝐔𝐃 𝐁𝐈𝐄 @${num.split('@')[0]}👋\𝐎𝐑𝐔 𝐒𝐇𝐀𝐋𝐈𝐘𝐀𝐌 𝐎𝐙𝐇𝐔𝐕𝐀𝐘𝐈 😂`
 				let buff = await getBuffer(ppimg)
 				denz.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 			}
